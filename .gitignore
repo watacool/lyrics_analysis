@@ -1,0 +1,11 @@
+# file type
+*.pyc
+*.csv
+*.PNG
+*.txt
+
+
+# dir
+data/
+model/
+
